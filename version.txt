@@ -1,0 +1,4 @@
+***** 1.0.0 **********
+DATE: 21-01-2019
+FUNCTION:
+Mise en place de l'environnement
